@@ -48,7 +48,7 @@ const App = () => {
 
   return (
     <div>
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
+      <nav className="navbar navbar-expand navbar-dark bg-secondary">
         <Link to={"/"} className="navbar-brand">
           My App
         </Link>
